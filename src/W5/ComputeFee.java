@@ -1,3 +1,5 @@
+package W5;
+
 public class ComputeFee {
     public static void main(String[] args) {
         double baseFee = 10000;

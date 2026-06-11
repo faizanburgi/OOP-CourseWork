@@ -1,3 +1,5 @@
+package W7;
+
 import java.util.Scanner;
 
 public class EvenOddCount {

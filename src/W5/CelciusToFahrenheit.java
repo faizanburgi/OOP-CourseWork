@@ -1,3 +1,5 @@
+package W5;
+
 public class CelciusToFahrenheit {
     public static void main(String[] args) {
         System.out.println("Celcius\t\t\tFahrenheit");

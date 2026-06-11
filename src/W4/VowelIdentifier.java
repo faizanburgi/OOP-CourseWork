@@ -1,3 +1,5 @@
+package W4;
+
 import java.util.Scanner;
 
 public class VowelIdentifier {

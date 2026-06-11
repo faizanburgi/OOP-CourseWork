@@ -1,3 +1,5 @@
+package W5;
+
 public class LowestScoreFinder
 {
     public static void main(String[] args)

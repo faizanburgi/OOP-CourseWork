@@ -1,3 +1,5 @@
+package W5;
+
 import java.util.Scanner;
 
 public class ExamResult {
