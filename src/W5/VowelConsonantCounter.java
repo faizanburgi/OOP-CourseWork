@@ -1,6 +1,6 @@
 package W5;
 
-import javax.swing.*;
+//import javax.swing.*;
 import java.util.Scanner;
 
 public class VowelConsonantCounter {
