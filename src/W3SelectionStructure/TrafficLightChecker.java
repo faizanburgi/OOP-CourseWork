@@ -1,4 +1,4 @@
-package W3;
+package W3SelectionStructure;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package W6;
+package W6Methods;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package W5;
+package W5Loops;
 
 public class ComputeFee {
     public static void main(String[] args) {

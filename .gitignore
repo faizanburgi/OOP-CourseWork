@@ -28,4 +28,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-/src/W3/IncomeTaxCalculator.java
+/src/W3SelectionStructure/IncomeTaxCalculator.java

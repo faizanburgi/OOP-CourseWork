@@ -1,4 +1,4 @@
-package W5;
+package W5Loops;
 
 //import javax.swing.*;
 import java.util.Scanner;

@@ -1,6 +1,5 @@
-package W4;
+package W4JavaAPI;
 
-import java.sql.SQLOutput;
 import java.util.Random;
 import java.util.Scanner;
 
